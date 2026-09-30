@@ -65,14 +65,14 @@ AI-Face-Attendance-System/
 
 ## 💻 GitHub Repository
 
-🔗 [View Source Code](https://github.com/prasanthkareti72-art/AI-Face-Attendance-System)
+🔗 [View Source Code](https://github.com/Praneeth43/AI-Face-Attendendence-System)
 
 ## 📥 Installation and Setup
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/prasanthkareti72-art/AI-Face-Attendance-System.git
+git clone https://github.com/Praneeth43/AI-Face-Attendendence-System
 ```
 
 2. Navigate to the project folder:
